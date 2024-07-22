@@ -60,6 +60,9 @@ const Title = () => <h1 className="head" tabIndex="5">Namaste React using JSX</h
 //Class based component-OLD
 // React Functional component -just a normal js function
 const num=100;
+
+
+
 const HeadingComponent=()=>(
     <div><Title/>
     {Title() /*we can even call like this*/}
